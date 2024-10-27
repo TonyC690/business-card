@@ -1,0 +1,20 @@
+#pfpImage{
+    width:20rem;
+    height:20rem;
+    border-radius:20px;
+}
+
+#businessCard{
+    width:70rem;
+    height:30rem;
+    margin:5rem auto 0rem auto;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#4A3017;
+    box-shadow: 10px 10px 5px #af845a;
+    background-color:#e9edc9;
+    border-radius:10px;
+}
